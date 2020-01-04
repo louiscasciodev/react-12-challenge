@@ -1,5 +1,7 @@
 # React 12 - Lifting State Up - Challenge
 
+**Challenge**
+
 As usual, you'll find all the components under the `src` folder:
 * `App`: "root" component (other "dummy" components are provided)
 * `TabSelector`: allows to select a tab
